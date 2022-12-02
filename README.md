@@ -1,6 +1,6 @@
 # Password-Generator
 
-<h2> A ideia do projeto 💡</h2>
+<h2 align="center"> A ideia do projeto 💡</h2>
 
 Esse projeto foi idealizado para ser um gerador de senhas prático e simples, que pode ser utilizado por qualquer pessoa ,mesmo que tenha um conhecimento mínimo sobre segurança 
 
